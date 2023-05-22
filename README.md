@@ -1,2 +1,3 @@
 # revshell_generator
-This is Created For Main Purpose Saving Time in Your CTF's
+This Python Script Will generate The Different Linux Revershell's And Copy Them directly To Your Clipboard [+]
+For Every New Execution Of Command Will Generate Random reverse Shell's and Same Them To Your Clipboard :)
