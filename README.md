@@ -1,2 +1,2 @@
 # revshell_generator
-This is Created For Main Purpose Of Time Saving in Your CTF's
+This is Created For Main Purpose Saving Time in Your CTF's
