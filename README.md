@@ -2,7 +2,7 @@
 This Python Script Will generate The Different Linux Revershell's And Copy Them directly To Your Clipboard [+]
 For Every New Execution Of Command Will Generate Random reverse Shell's and Save Them To Your Clipboard :)
 
-![image](https://github.com/n3v3rsky/revshell_generator/assets/98725618/74fe2517-6d3e-417a-afbf-4b813ad8a56a)
+![image](https://github.com/n3v3rsky/revshell_generator/assets/98725618/e64f2497-79ea-468c-a050-5808985ad5fc)
 
 Example Usage ::
 
