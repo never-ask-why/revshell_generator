@@ -8,7 +8,7 @@ Example Usage ::
 
 ![image](https://github.com/n3v3rsky/revshell_generator/assets/98725618/a6ffc5d6-9e13-439b-9cff-eb464327b35c)
 
-You can Also past then to a text Editor and try every command on target ::
+You can Also past Clipboard to a text Editor and try every commands target ::
 
 ![image](https://github.com/n3v3rsky/revshell_generator/assets/98725618/e8c33b13-01cf-41d6-95d4-ea889be0cd7e)
 
